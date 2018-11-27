@@ -20,7 +20,7 @@ Developed by **Sushi#0003**
 
 # Commands
 **-sendMessage** : A command for the head coordinator (Bot Owner) to send a message to every member of the server.<br>
-`Example: "-sendMessage We are going to roll the bot in 4 hours!"`
+`Example: "-sendMessage We are going to roll the bot in 4 hours!"`<br>
 **-runRandom** : This will send each user within the Discord server a randomly selected member that they will buy a gift for.<br>
 `Example: "-runRandom"`
 
