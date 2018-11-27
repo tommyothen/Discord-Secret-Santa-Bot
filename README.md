@@ -1,5 +1,5 @@
 # Discord-Secret-Santa-Bot 🎅
-A simple discord bot that I made to automate a server-wide Secret Santa! <br>
+A simple Discord bot that I made to automate a server-wide Secret Santa! <br>
 Developed by **Sushi#0003**
 
 # About this Bot
