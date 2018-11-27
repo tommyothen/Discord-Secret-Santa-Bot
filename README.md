@@ -35,3 +35,9 @@ Remember to replace **CLIENT_ID** with your bot client ID
 
 **Q:** Did this really take you 10 minutes?<br>
 **A:** 10 minutes is an estimate, should have taken less but I didn't time myself.
+
+**Q:** Why are there so many typos and mistakes in your code?<br>
+**A:** Dude, it's past midnight and I have work early in the morning. Of course theres going to be mistakes when I'm tired.
+
+**Q:** I optimized the code, do you want to see it?<br>
+**A:** Yeah sure but I wouldn't waste any more of your time on this...
